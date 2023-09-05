@@ -4,7 +4,7 @@
 
 Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
 
-```To create your profile README you need to name the repo as your username```
+```To create your profile README you need to name the repository as your username```
 
 | :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
 | :-------: | :-------------------------------------------------------------------------------------------------------- |
